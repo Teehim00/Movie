@@ -1,6 +1,7 @@
 ## Getting Started
 
 ### 1. Clone the Repository
+https://github.com/Teehim00/Movie.git
 
 ### 2. Install Dependencies
 npm install
